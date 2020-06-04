@@ -10,7 +10,7 @@
             <div class="widget-content">
               <p><b><i class="fas fa-mobile-alt"></i> Hotline:</b> <a href="tel:(+84) 967 999 999">(+84) 967 999 999</a></p>
               <p><b><i class="fas fa-envelope"></i> Email:</b> <a href="mailto:phonestore@gmail.com" rel="nofollow">phonestore@gmail.com</a></p>
-              <p><b><i class="fas fa-store-alt"></i> Địa chỉ:</b> {{ __('footer.address') }}</p>
+              <p><b><i class="fas fa-store-alt"></i> Địa chỉ: HUTECH</p>
             </div>
           </div>
         </div>
@@ -63,7 +63,7 @@
   </div>
   <div class="footer-bottom">
     <div class="copyright text-center">
-      Copyright &copy 2019 Hoang Lam. All rights reserved.
+      HUTECH - Sinh vien 
     </div>
   </div>
 </footer>
