@@ -46,7 +46,7 @@
     </section>
     <section class="section-favorite-products">
       <div class="section-header">
-        <h2 class="section-title">SẢN PHẨM ƯA THÍCH</h2>
+        <h2 class="section-title"> LAPTOP</h2>
       </div>
       <div class="section-content">
         <div id="slide-favorite" class="owl-carousel">
@@ -74,7 +74,7 @@
     <section class="section-products">
       <div class="section-header">
         <div class="section-header-left">
-          <h2 class="section-title">ĐIỆN THOẠI</h2>
+          <h2 class="section-title">LAPTOP</h2>
         </div>
         <div class="section-header-right">
           <ul>
