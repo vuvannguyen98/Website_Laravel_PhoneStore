@@ -108,9 +108,9 @@
                 <label>Hệ Điều Hành <span class="text-red">*</span></label>
                 <select class="form-control" name="OS" required>
                   <option value="">-- Chọn hệ điều hành --</option>
-                  <option value="Android">Android</option>
-                  <option value="IOS">IOS</option>
-                  <option value="Windows Phone">Windows Phone</option>
+                  <option value="a">Windows 7</option>
+                  <option value="IOS">Windows 8</option>
+                  <option value="Windows Phone">Windows 10</option>
                 </select>
               </div>
             </div>

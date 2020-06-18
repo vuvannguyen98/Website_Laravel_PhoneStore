@@ -41,12 +41,12 @@
                     <option value='' {{ Request::input('os') == null ? 'selected' : '' }}>
                       Hệ Điều Hành
                     </option>
-                    <option value='ios' {{ Request::input('os') == 'ios' ? 'selected' : '' }}>IOS</option>
+                    <option value='ios' {{ Request::input('os') == 'ios' ? 'selected' : '' }}>Windows 7</option>
                     <option value='android' {{ Request::input('os') == 'android' ? 'selected' : '' }}>
-                      Android
+                      Windows 8
                     </option>
                     <option value='windows' {{ Request::input('os') == 'windows' ? 'selected' : '' }}>
-                      Windows Phone
+                      Windows 10
                     </option>
                   </select>
                 </div>

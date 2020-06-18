@@ -43,9 +43,9 @@
             <br>
             <address>
               <b>Admin PhoneStore</b><br>
-              Phone: (+84) 967 999 999<br>
+              Phone: (+84) 354 306 290<br>
               Email: phonestore@gmail.com<br>
-              Address: Số 1 Đại Cồ Việt, Bách Khoa, Hai Bà Trưng, Hà Nội.
+              Address: HUTECH - Đại học Công nghệ TP.HCM
             </address>
           </div>
           <div class="col-md-3 col-sm-3 col-xs-3">

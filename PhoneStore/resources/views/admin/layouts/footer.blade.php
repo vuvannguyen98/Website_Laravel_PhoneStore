@@ -1,8 +1,8 @@
 <footer class="main-footer">
   <!-- To the right -->
   <div class="pull-right hidden-xs">
-    <b>AdminLTE</b> 2.4.18
+    <b>AdminLTE</b> 2020
   </div>
   <!-- Default to the left -->
-  <strong>Copyright &copy; 2019 <a href="#">PhoneStore</a>.</strong> All rights reserved.
+  <strong>Copyright &copy; 2020 <a href="#">WindowStore</a>.</strong> ETG - HUTECH.
 </footer>

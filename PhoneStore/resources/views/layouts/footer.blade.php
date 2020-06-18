@@ -8,8 +8,8 @@
               <h3>{{ __('footer.AboutUs') }}</h3>
             </div>
             <div class="widget-content">
-              <p><b><i class="fas fa-mobile-alt"></i> Hotline:</b> <a href="tel:(+84) 967 999 999">(+84) 967 999 999</a></p>
-              <p><b><i class="fas fa-envelope"></i> Email:</b> <a href="mailto:phonestore@gmail.com" rel="nofollow">phonestore@gmail.com</a></p>
+              <p><b><i class="fas fa-mobile-alt"></i> Hotline:</b> <a href="tel:(+84) 967 999 999">(+84) 354 306 290</a></p>
+              <p><b><i class="fas fa-envelope"></i> Email:</b> <a href="mailto:phonestore@gmail.com" rel="nofollow">computerstore@gmail.com</a></p>
               <p><b><i class="fas fa-store-alt"></i> Địa chỉ: HUTECH</p>
             </div>
           </div>
@@ -54,7 +54,7 @@
               <h3>{{ __('footer.FollowUs') }}</h3>
             </div>
             <div class="widget-content">
-              <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPhone-Store-106507137419133%2F%3Fmodal%3Dadmin_todo_tour&tabs=timelinewww.facebook.com&width=270&height=130&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="270" height="130" style="border: none; overflow: hidden; max-width: 100%;" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FOneMovie2020%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=153956395307001" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
             </div>
           </div>
         </div>
@@ -63,7 +63,7 @@
   </div>
   <div class="footer-bottom">
     <div class="copyright text-center">
-      HUTECH - Sinh vien 
+      Copyright &copy Thực hiện bởi nhóm sinh viên HUTECH - 2020
     </div>
   </div>
 </footer>

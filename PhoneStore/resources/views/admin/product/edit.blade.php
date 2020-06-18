@@ -108,9 +108,9 @@
                 <label>Hệ Điều Hành <span class="text-red">*</span></label>
                 <select class="form-control" name="OS" required>
                   <option value="">-- Chọn hệ điều hành --</option>
-                  <option value="Android" {{ $product->OS == 'Android' ? 'selected' : '' }}>Android</option>
-                  <option value="IOS" {{ $product->OS == 'IOS' ? 'selected' : '' }}>IOS</option>
-                  <option value="Windows Phone" {{ $product->OS == 'Windows Phone' ? 'selected' : '' }}>Windows Phone</option>
+                  <option value="Android" {{ $product->OS == 'Android' ? 'selected' : '' }}>Windows 7</option>
+                  <option value="IOS" {{ $product->OS == 'IOS' ? 'selected' : '' }}>Windows 8</option>
+                  <option value="Windows Phone" {{ $product->OS == 'Windows Phone' ? 'selected' : '' }}>Windows 10</option>
                 </select>
               </div>
             </div>

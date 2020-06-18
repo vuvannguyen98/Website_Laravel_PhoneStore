@@ -11,7 +11,7 @@
         </button>
 
         <div class="logo">
-          <a class="logo-wrapper" href="{{ route('home_page') }}" title="{{ config('app.name') }}"><img src="{{ asset('images/logo.png') }}" alt="{{ config('app.name') }}"></a>
+          <a class="logo-wrapper" href="{{ route('home_page') }}" title="{{ config('app.name') }}"><img src="{{ asset('images/a.png') }}" alt="{{ config('app.name') }}"></a>
         </div>
       </div>
       <div class="col-md-3 margin-auto">

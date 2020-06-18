@@ -1780,7 +1780,7 @@ body {
   vertical-align: middle;
 }
 .mobile-main-menu .mobile-main-menu-middle .mb-menu-middle-body>ul>li.mb-nav-item.active>a {
-  color: #f30;
+  color: rgb(197, 241, 0);
 }
 .mobile-main-menu .mobile-main-menu-middle .mb-menu-middle-body>ul>li.mb-nav-item.has-item-child>a {
   width: calc(100% - 30px);

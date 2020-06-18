@@ -1,1 +1,1 @@
-Giao dien
+Nhóm làm các phần liên quan

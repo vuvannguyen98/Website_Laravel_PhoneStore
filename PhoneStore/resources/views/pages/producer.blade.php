@@ -42,7 +42,7 @@
                     <option value='' {{ Request::input('os') == null ? 'selected' : '' }}>
                       Hệ Điều Hành
                     </option>
-                    <option value='ios' {{ Request::input('os') == 'ios' ? 'selected' : '' }}>Windows  7</option>
+                    <option value='ios' {{ Request::input('os') == 'ios' ? 'selected' : '' }}>Windows 7</option>
                     <option value='android' {{ Request::input('os') == 'android' ? 'selected' : '' }}>
                       Windows 8
                     </option>
