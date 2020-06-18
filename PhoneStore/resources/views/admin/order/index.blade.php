@@ -53,7 +53,7 @@
 @section('breadcrumb')
 <ol class="breadcrumb">
   <li><a href="{{ route('admin.dashboard') }}"><i class="fa fa-dashboard"></i> Home</a></li>
-  <li class="active">Quản Lý Đơn Hàng</li>
+  <li class="active">Quản Lý Đơn Hàngggggg</li>
 </ol>
 @endsection
 
