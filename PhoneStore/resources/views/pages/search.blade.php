@@ -34,7 +34,7 @@
           <div class="empty-content">
             <div class="icon"><i class="fab fa-searchengin"></i></div>
             <div class="title">Oooops!</div>
-            <div class="content">Product Item Not Found</div>
+            <div class="content">Không tìm sản thấy sản phẩm</div>
           </div>
         @else
           <div class="row">
