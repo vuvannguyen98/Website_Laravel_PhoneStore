@@ -103,8 +103,8 @@
         @if($data['products']->isEmpty())
           <div class="empty-content">
             <div class="icon"><i class="fab fa-searchengin"></i></div>
-            <div class="title">Oooops!</div>
-            <div class="content">Product Item Not Found</div>
+            <div class="title">Xin lỗi</div>
+            <div class="content">Sản phẩm không tìm thấy</div>
           </div>
         @else
           <div class="row">
