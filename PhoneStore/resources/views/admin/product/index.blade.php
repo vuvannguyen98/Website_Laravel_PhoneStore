@@ -163,7 +163,7 @@
   $(function () {
     var table = $('#product-table').DataTable({
       "language": {
-        "zeroRecords":    "Không tìm thấy kết quả phù hợp",
+        "zeroRecords":    "Không tìm thấy kết qsssuả phù hợp",
         "info":           "Hiển thị trang <b>_PAGE_/_PAGES_</b> của <b>_TOTAL_</b> sản phẩm",
         "infoEmpty":      "Hiển thị trang <b>1/1</b> của <b>0</b> sản phẩm",
         "infoFiltered":   "(Tìm kiếm từ <b>_MAX_</b> sản phẩm)",
