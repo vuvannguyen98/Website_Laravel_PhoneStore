@@ -15,7 +15,7 @@
 
   <div class="site-login">
       <div class="login-body">
-        <h2 class="title">Đăng Nhập</h2>
+        <h2 class="title">Đăng Nhập </h2>
         <form action="{{ route('login') }}" method="POST" accept-charset="utf-8">
           @csrf
 
@@ -62,14 +62,14 @@
             </div>
           </div>
 
-          <button type="submit" class="btn btn-default">LOGIN</button>
+          <button type="submit" class="btn btn-default">LOGINNN</button>
         </form>
       </div>
       <div class="login-social">
         <div class="login-social-text">Or login with</div>
         <div class="row">
           <div class="col-md-6">
-            <a href="#" title="Facebook" class="btn btn-defaule"><i class="fab fa-facebook-square"></i> Facebook</a>
+            <a href="#" title="Facebook" class="btn btn-defaule"><i class="fab fa-facebook-square"></i> Facebook </a>
           </div>
           <div class="col-md-6">
             <a href="#" title="Google" class="btn btn-defaule"><i class="fab fa-google"></i> Google</a>
@@ -77,7 +77,7 @@
         </div>
       </div>
       <div class="sign-up-now">
-        Not a member? <a href="{{ route('register') }}">Sign up now</a>
+        Not a member? <a href="{{ route('register') }}">Sign up now </a>
       </div>
   </div>
 @endsection
