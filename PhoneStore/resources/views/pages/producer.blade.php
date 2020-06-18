@@ -54,7 +54,7 @@
                 <div class="col-md-3 col-sm-6 col-xs-6">
                   <select name='price'>
                     <option value='' {{ Request::input('price') == null ? 'selected' : '' }}>
-                      Giá Sản Phẩm
+                      Giá Sản Phẩmmmmmmm
                     </option>
                     <option value='asc' {{ Request::input('price') == 'asc' ? 'selected' : '' }}>
                       Giá từ thấp tới cao
