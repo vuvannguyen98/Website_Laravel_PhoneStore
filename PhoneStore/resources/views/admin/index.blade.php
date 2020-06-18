@@ -39,7 +39,7 @@
         <div class="inner">
           <h3>{{ $count['post'] }}</h3>
 
-          <p>Bài Viết</p>
+          <p>Bài Viết 1212</p>
         </div>
         <div class="icon">
           <i class="fa fa-newspaper-o"></i>
