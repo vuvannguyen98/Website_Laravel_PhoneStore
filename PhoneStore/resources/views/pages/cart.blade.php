@@ -8,7 +8,7 @@
     <nav aria-label="breadcrumb">
       <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="{{ route('home_page') }}">{{ __('header.Home') }}</a></li>
-        <li class="breadcrumb-item active" aria-current="page">Giỏ Hàng</li>
+        <li class="breadcrumb-item active" aria-current="page"> Giỏ Hàng </li>
       </ol>
     </nav>
   </section>
@@ -26,7 +26,7 @@
 
     <section class="section-cart">
       <div class="section-header">
-        <h2 class="section-title">Giỏ Hàng <span>( {{ $cart->totalQty }} Sản Phẩm )</span></h2>
+        <h2 class="section-title"> Giỏ Hàng <span>( {{ $cart->totalQty }} Sản Phẩm )</span></h2>
       </div>
       <div class="section-content">
         @if(!$cart->totalQty)
