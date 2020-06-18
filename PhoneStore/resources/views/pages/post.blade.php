@@ -31,7 +31,7 @@
         <div class="col-md-8">
           <div class="section-left">
             <div class="section-header">
-              <h2 class="section-title">Bài Viết</h2>
+              <h2 class="section-title">Bài Viết </h2>
             </div>
             <div class="section-content">
               <div class="header-post">

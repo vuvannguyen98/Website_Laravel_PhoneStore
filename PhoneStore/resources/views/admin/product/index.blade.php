@@ -196,7 +196,7 @@
       Swal.fire({
         type: 'question',
         title: 'Thông báo',
-        text: 'Bạn có chắc muốn xóa sản phẩm này?',
+        text: 'Bạn có chắc muốn xóa sản phẩm này khong?',
         showCancelButton: true,
         confirmButtonColor: '#d33',
         cancelButtonColor: '#3085d6',
