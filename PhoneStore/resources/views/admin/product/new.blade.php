@@ -60,7 +60,7 @@
           <div class="row">
             <div class="col-md-4">
               <div class="form-group">
-                <label for="name">Tên Sản Phẩm <span class="text-red">*</span></label>
+                <label for="name">Tên Sản Phẩm nmmmm<span class="text-red">*</span></label>
                 <input type="text" name="name" class="form-control" id="name" placeholder="Tên sản Phẩm" required autocomplete="off">
               </div>
             </div>
