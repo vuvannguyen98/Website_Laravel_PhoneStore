@@ -15,7 +15,7 @@
 
   <div class="site-login">
       <div class="login-body">
-        <h2 class="title">Đăng Nhập</h2>
+        <h2 class="title">Đăng Nhập </h2>
         <form action="{{ route('login') }}" method="POST" accept-charset="utf-8">
           @csrf
 
