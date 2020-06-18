@@ -8,7 +8,7 @@
     <nav aria-label="breadcrumb">
       <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="{{ route('home_page') }}">{{ __('header.Home') }}</a></li>
-        <li class="breadcrumb-item active" aria-current="page">Liên Hệ</li>
+        <li class="breadcrumb-item active" aria-current="page">Liên Hệ </li>
       </ol>
     </nav>
   </section>
@@ -26,7 +26,7 @@
 
     <section class="section-about">
       <div class="section-header">
-        <h2 class="section-title">Liên Hệ</h2>
+        <h2 class="section-title">Liên Hệ </h2>
       </div>
       <div class="section-content">
         <div class="row">
